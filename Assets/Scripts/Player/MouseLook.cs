@@ -13,7 +13,7 @@ public class MouseLook : MonoBehaviour
     private void Start()
     {
         // Cursor verdwijnt in het scherm
-        Cursor.lockState = CursorLockMode.Locked;
+        // Cursor.lockState = CursorLockMode.Locked;
     }
     private void FixedUpdate()
     {
