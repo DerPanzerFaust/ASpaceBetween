@@ -19,5 +19,9 @@ public class IntroTime : MonoBehaviour
                 SceneManager.LoadScene("MainMenu");
             }
         }
+        if(Input.GetKeyUp(KeyCode.Space))
+        {
+            SceneManager.LoadScene("MainMenu");
+        }
     }
 }
