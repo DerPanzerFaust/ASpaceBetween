@@ -39,7 +39,7 @@ MonoBehaviour:
     m_Value: 1
   fixedExposure:
     m_OverrideState: 1
-    m_Value: 11.231033
+    m_Value: -2.0138383
   compensation:
     m_OverrideState: 0
     m_Value: 0
@@ -190,7 +190,7 @@ MonoBehaviour:
   g_extra: 0
   g_bypass: 0
   pixelOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   screenResPresetId:
     m_OverrideState: 1
@@ -279,12 +279,12 @@ MonoBehaviour:
     m_Value: 1
   signalNoiseAmount:
     m_OverrideState: 1
-    m_Value: 0.3
+    m_Value: 0.126
   signalNoisePower:
     m_OverrideState: 1
     m_Value: 0.83
   lineNoiseOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   lineNoiseAmount:
     m_OverrideState: 1
@@ -293,17 +293,17 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 5
   tapeNoiseOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
   tapeNoiseTH:
-    m_OverrideState: 1
-    m_Value: 1.5
+    m_OverrideState: 0
+    m_Value: 1.328
   tapeNoiseAmount:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0.6
   tapeNoiseSpeed:
-    m_OverrideState: 1
-    m_Value: 0.69
+    m_OverrideState: 0
+    m_Value: 0.964
   scanLinesOn:
     m_OverrideState: 1
     m_Value: 0
@@ -351,7 +351,7 @@ MonoBehaviour:
     m_Value: 1
   signalAdjustY:
     m_OverrideState: 1
-    m_Value: -0.051
+    m_Value: -0.007
   signalAdjustI:
     m_OverrideState: 1
     m_Value: 0
@@ -360,7 +360,7 @@ MonoBehaviour:
     m_Value: 0
   signalShiftY:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.85
   signalShiftI:
     m_OverrideState: 1
     m_Value: 1
