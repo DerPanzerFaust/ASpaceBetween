@@ -34,5 +34,6 @@ public class Flashlight : MonoBehaviour
                 FlashlightState = false;
             }
         }
+       
     }
 }

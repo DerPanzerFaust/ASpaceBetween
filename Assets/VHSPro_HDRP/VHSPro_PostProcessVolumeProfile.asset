@@ -194,7 +194,7 @@ MonoBehaviour:
     m_Value: 1
   screenResPresetId:
     m_OverrideState: 1
-    m_Value: 2
+    m_Value: 0
   screenWidth:
     m_OverrideState: 1
     m_Value: 640
@@ -233,10 +233,10 @@ MonoBehaviour:
     m_Value: 1
   ditherMode:
     m_OverrideState: 1
-    m_Value: 4
+    m_Value: 6
   ditherAmount:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 1.35
   paletteOn:
     m_OverrideState: 1
     m_Value: 0
@@ -258,7 +258,7 @@ MonoBehaviour:
     m_Value: 0
   bleedAmount:
     m_OverrideState: 1
-    m_Value: 0.91
+    m_Value: 1.21
   noiseResGlobal:
     m_OverrideState: 1
     m_Value: 1
@@ -273,7 +273,7 @@ MonoBehaviour:
     m_Value: 0
   filmGrainAmount:
     m_OverrideState: 1
-    m_Value: 0.016
+    m_Value: 0
   signalNoiseOn:
     m_OverrideState: 1
     m_Value: 1
@@ -288,7 +288,7 @@ MonoBehaviour:
     m_Value: 1
   lineNoiseAmount:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0.32
   lineNoiseSpeed:
     m_OverrideState: 1
     m_Value: 5
@@ -297,13 +297,13 @@ MonoBehaviour:
     m_Value: 1
   tapeNoiseTH:
     m_OverrideState: 0
-    m_Value: 1.328
+    m_Value: 0.648
   tapeNoiseAmount:
     m_OverrideState: 0
-    m_Value: 0.6
+    m_Value: 0.036
   tapeNoiseSpeed:
     m_OverrideState: 0
-    m_Value: 0.964
+    m_Value: 1.5
   scanLinesOn:
     m_OverrideState: 1
     m_Value: 0
@@ -311,41 +311,41 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 9.5
   linesFloatOn:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 0
   linesFloatSpeed:
     m_OverrideState: 1
     m_Value: 0.55
   stretchOn:
-    m_OverrideState: 1
-    m_Value: 0
+    m_OverrideState: 0
+    m_Value: 1
   jitterHOn:
     m_OverrideState: 1
     m_Value: 1
   jitterHAmount:
     m_OverrideState: 1
-    m_Value: 0.5
+    m_Value: 1.9
   jitterVOn:
     m_OverrideState: 1
     m_Value: 1
   jitterVAmount:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 10.41
   jitterVSpeed:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 5
   twitchHOn:
-    m_OverrideState: 1
-    m_Value: 0
-  twitchHFreq:
-    m_OverrideState: 1
-    m_Value: 0
-  twitchVOn:
-    m_OverrideState: 1
-    m_Value: 0
-  twitchVFreq:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 1
+  twitchHFreq:
+    m_OverrideState: 0
+    m_Value: 5
+  twitchVOn:
+    m_OverrideState: 0
+    m_Value: 1
+  twitchVFreq:
+    m_OverrideState: 0
+    m_Value: 5
   signalTweakOn:
     m_OverrideState: 1
     m_Value: 1
@@ -368,19 +368,19 @@ MonoBehaviour:
     m_OverrideState: 1
     m_Value: 1
   feedbackOn:
-    m_OverrideState: 1
-    m_Value: 0
+    m_OverrideState: 0
+    m_Value: 1
   feedbackThresh:
-    m_OverrideState: 1
-    m_Value: 0.121
+    m_OverrideState: 0
+    m_Value: 0.617
   feedbackAmount:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: 2
   feedbackFade:
-    m_OverrideState: 1
-    m_Value: 0.82
+    m_OverrideState: 0
+    m_Value: 0
   feedbackColor:
-    m_OverrideState: 1
+    m_OverrideState: 0
     m_Value: {r: 1, g: 0.5, b: 0, a: 1}
   feedbackDebugOn:
     m_OverrideState: 1
